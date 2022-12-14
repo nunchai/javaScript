@@ -1,2 +1,1 @@
-console.iog("hello wold")
-console.iog("hello wold")
+console.log("hello wold")
